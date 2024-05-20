@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Sidney Crosby",
+      "nationality": "CAN",
+      "assists": 50,
+      "goals": 35,
+      "penalties": 18,
+      "team": "PIT",
+      "games": 72
+    },
+    {
+      "name": "Alexander Ovechkin",
+      "nationality": "RUS",
+      "assists": 30,
+      "goals": 45,
+      "penalties": 25,
+      "team": "WSH",
+      "games": 68
+    },
+    {
+      "name": "Connor McDavid",
+      "nationality": "CAN",
+      "assists": 70,
+      "goals": 29,
+      "penalties": 20,
+      "team": "EDM",
+      "games": 71
+    },
+    {
+        "name": "Sidney Crosby",
+        "nationality": "CAN",
+        "assists": 50,
+        "goals": 35,
+        "penalties": 18,
+        "team": "PIT",
+        "games": 72
+      },
+      {
+        "name": "Alexander Ovechkin",
+        "nationality": "RUS",
+        "assists": 30,
+        "goals": 45,
+        "penalties": 25,
+        "team": "WSH",
+        "games": 68
+      },
+      {
+        "name": "Connor McDavid",
+        "nationality": "CAN",
+        "assists": 70,
+        "goals": 29,
+        "penalties": 20,
+        "team": "EDM",
+        "games": 71
+      },
+      {
+        "name": "Patrik Laine",
+        "nationality": "FIN",
+        "assists": 35,
+        "goals": 28,
+        "penalties": 22,
+        "team": "WPG",
+        "games": 68
+      },
+      {
+        "name": "Nathan MacKinnon",
+        "nationality": "CAN",
+        "assists": 45,
+        "goals": 38,
+        "penalties": 14,
+        "team": "COL",
+        "games": 70
+      },
+      {
+        "name": "Auston Matthews",
+        "nationality": "CAN",
+        "assists": 25,
+        "goals": 47,
+        "penalties": 12,
+        "team": "TOR",
+        "games": 69
+      },
+      {
+        "name": "Leon Draisaitl",
+        "nationality": "GER",
+        "assists": 68,
+        "goals": 34,
+        "penalties": 16,
+        "team": "EDM",
+        "games": 72
+      },
+      {
+        "name": "Artemi Panarin",
+        "nationality": "RUS",
+        "assists": 95,
+        "goals": 32,
+        "penalties": 10,
+        "team": "NYR",
+        "games": 70
+      },
+      {
+        "name": "John Tavares",
+        "nationality": "CAN",
+        "assists": 40,
+        "goals": 26,
+        "penalties": 8,
+        "team": "TOR",
+        "games": 66
+      },
+      {
+        "name": "Brad Marchand",
+        "nationality": "CAN",
+        "assists": 60,
+        "goals": 25,
+        "penalties": 28,
+        "team": "BOS",
+        "games": 74
+      }
+  ]
+  
+
+  
